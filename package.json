@@ -1,0 +1,22 @@
+{
+  "name": "fetchapi",
+  "version": "1.0.0",
+  "main": "fetchapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shweta005/api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shweta005/api/issues"
+  },
+  "homepage": "https://github.com/Shweta005/api#readme",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
